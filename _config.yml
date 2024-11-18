@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yun Ruxian / 学术主页"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Yun Ruxian"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "yrx-china/yrx-china.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "云 如先"
+  name             : "云如先(Yun Ruxian)"
   pronouns         : # example: "she/her"  
   bio              : "记录曾经的过往。"
   location         : "China"
