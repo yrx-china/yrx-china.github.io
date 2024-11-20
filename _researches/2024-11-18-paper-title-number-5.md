@@ -2,7 +2,7 @@
 title: "How to measure a Country's human capital? From Years of Schooling to Cognitive Skills and Wage Information from Market "
 collection: researches
 category: working_papers
-permalink: /publication/2024-11-18-paper-title-number-5.md
+permalink: /researches/2024-11-18-paper-title-number-5.md
 excerpt: " As the core concept of macroeconomic research, the accurate
 measurement of human capital is the advance of macroeconomic research, and having
 a full understanding of the indicators and data to measure human capital is also an
