@@ -78,14 +78,16 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  journal_articles:
     title: 'Journal Articles'
+  conferences:
+    title: 'Conference Papers'
 
 # Research Category - The following the list of research categories and their headings
 research_category:
   working_papers:
     title: 'Working Papers'
-  manuscripts:
+  journal_articles:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
