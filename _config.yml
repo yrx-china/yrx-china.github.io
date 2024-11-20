@@ -85,6 +85,8 @@ publication_category:
 research_category:
   working_papers:
     title: 'Working Papers'
+  manuscripts:
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
