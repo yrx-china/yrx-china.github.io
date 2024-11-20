@@ -80,10 +80,6 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'
-  working_papers:
-    title: 'Working Papers'
-  conferences:
-    title: 'Conference Papers'
 
 # Research Category - The following the list of research categories and their headings
 research_category:
