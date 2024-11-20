@@ -80,10 +80,10 @@ publication_category:
     title: 'Working Papers'
   journal_articles:
     title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
-  books:
-    title: 'Books'
+#  conferences:
+#    title: 'Conference Papers'
+#  books:
+#    title: 'Books'
 
 # Research Category - The following the list of research categories and their headings
 research_category:
