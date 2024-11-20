@@ -1,11 +1,11 @@
 ---
 title: "How to measure a Country's human capital?"
 collection: researches
-category: workings
+category: working_papers
 permalink: /researches/2024-11-18-paper-title-number-5
 excerpt: "This is a working paper about the measurement of human capital."
 date: 2024-11-18
-venue: ' '
+venue: 'Working paper'
 paperurl: 'http://yrx-china.github.io/files/working_papers/一国人力资本究竟应如何测量？（网络版）（version_2024-11-28）.pdf'
 citation: "Ruxian, Yun. (2024). &quot;\How to measure a Country\'s human capital?From Years of Schooling to Cognitive Skills and Wage Information from Market.&quot; <i>Journal 1</i>. 1(2)."
 ---
