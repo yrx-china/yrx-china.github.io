@@ -2,7 +2,7 @@
 title: "Paper Title Number 6"
 collection: researches
 category: workings
-permalink: /researches/2024-11-20-paper-title-number-1
+permalink: /researches/2024-11-20-paper-title-number-6
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-20
 venue: 'Journal 1'

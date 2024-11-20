@@ -87,7 +87,7 @@ publication_category:
 
 # Research Category - The following the list of research categories and their headings
 research_category:
-  working_papers:
+  workings:
     title: 'Working Papers'
   journal_articles:
     title: 'Journal Articles'

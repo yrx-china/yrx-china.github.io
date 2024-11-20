@@ -1,8 +1,8 @@
 ---
 title: "How to measure a Country's human capital?"
 collection: researches
-category: working_papers
-permalink: /researches/2024-11-18-paper-title-number-5.md
+category: workings
+permalink: /researches/2024-11-18-paper-title-number-5
 excerpt: "This is a working paper about the measurement of human capital."
 date: 2024-11-18
 venue: ' '
