@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 6"
+title: "How to measure a Country's human capital?"
 collection: researches
 category: working_papers
 permalink: /researches/2024-11-20-paper-title-number-6
