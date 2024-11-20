@@ -1,8 +1,8 @@
 ---
 title: "Paper Title Number 6"
 collection: researches
-category: working_papers
-permalink: /researches/2009-10-01-paper-title-number-1
+category: workings
+permalink: /researches/2024-11-20-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-20
 venue: 'Journal 1'
