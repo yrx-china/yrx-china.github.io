@@ -5,7 +5,7 @@ category: journal_articles
 permalink: /researches/2024-09-01-paper-title-number-2
 excerpt: 'This article is about impact of three indicators of cognitive skills distribution on economic growth.'
 date: 2024-09-01
-venue: '华东师范大学学报(教育科学版)'
+venue: 'Journal of East China Normal University (Educational Sciences) (华东师范大学学报(教育科学版))'
 paperurl: 'http://yrx-china.github.io/files/journal_articles/Impact of Cognitive Skills Distribution on National Economic Growth.pdf'
 citation: 'Huang, B., Yun, R.X.(corresponding author),& Wu, K. L. (2024). &quot;Impact of Cognitive Skills Distribution on National Economic Growth: New  Empirical Evidence from the Building of a Powerful Country in Education.&quot; <i>Journal of East China Normal University (Educational Sciences)</i>. 42(9):13-32.'
 ---
