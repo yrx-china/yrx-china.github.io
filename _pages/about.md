@@ -11,9 +11,6 @@ Now, I'm a second year PH.D. candidate at [Institution of education](https://edu
 
 
 
-
-[Email：jssyyrx@163.com](mailto:jssyyrx@163.com)
-
-[Github ：https://github.com/yrx-china](https://github.com/yrx-china) 
-
-[Wechat](../images/wechat.jpg)
+## You can contact me by:
+  ###   Email：[jssyyrx@163.com](mailto:jssyyrx@163.com)
+  ###   Wechat：[weichat.png](..%2Fimages%2Fweichat.png)
