@@ -56,9 +56,9 @@
     
     {% if post.citation and post.paperurl and post.slidesurl and post.appendixurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a>| <a href="{{ post.appendixurl }}">Download Appendix</a></p>
-    {% if post.citation and post.paperurl and post.slidesurl %}
+    {% elsif post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% if post.citation and post.paperurl and post.appendixurl %}
+    {% elsif post.citation and post.paperurl and post.appendixurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.appendixurl }}">Download Appendix</a></p>
     {% elsif post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
