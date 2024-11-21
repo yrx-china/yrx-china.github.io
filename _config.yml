@@ -87,14 +87,14 @@ publication_category:
 
 # Research Category - The following the list of research categories and their headings
 research_category:
-#  books:
-#    title: 'Books'
   working_papers:
     title: 'Working Papers'
   journal_articles:
     title: 'Journal Articles'
-#  conferences:
-#    title: 'Conference Papers'
+  books:
+    title: 'Books'
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

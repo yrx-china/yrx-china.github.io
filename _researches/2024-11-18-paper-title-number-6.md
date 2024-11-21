@@ -6,8 +6,8 @@ permalink: /researches/2024-11-18-paper-title-number-6
 excerpt: 'This is a review article on the measurement of human capital.'
 date: 2024-11-18
 venue: 'Working paper'
-paperurl: "http://yrx-china.github.io/files/working_papers/How to measure a Country's human capital (version_2024-11-28).pdf"
-appendixurl: "http://yrx-china.github.io/files/working_papers/How to measure a Country's human capital appendix (version_2024-11-28).pdf"
+paperurl: "yrx-china.github.io/files/working_papers/How to measure a Country's human capital (version_2024-11-28).pdf"
+appendixurl: "yrx-china.github.io/files/working_papers/How to measure a Country's human capital appendix (version_2024-11-28).pdf"
 citation: "Yun, R. X., Huang, b. & Zhu, Y. W. (2024). How to measure a country's human capital?from years of schooling to cognitive skills and wage information from market. <i>Working paper</i>."
 ---
 
