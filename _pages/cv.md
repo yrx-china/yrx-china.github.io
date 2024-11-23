@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Higher Education, Nanjing University, 2023.09-2027.06 (expected)
-  * 博士 高等教育学, 南京大学 , 2023.09-2027.06  (expected)
+  * 博士 高等教育学, 南京大学 , 2023.09-2027.06(预期)
 * M.S. in Real Estate Management, Nanjing University of Finance &Economics, 2016.09-2019.06
   * 硕士 房地产管理学, 南京财经大学, 2016.09-2019.06
 * B.S. in Land Resource Management, Southwest Forestry University, 2012.09-2016.06
