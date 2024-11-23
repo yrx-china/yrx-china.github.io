@@ -91,15 +91,15 @@
 
 .list__item {
   @include breakpoint($medium) {
-    padding-right: 0;
+    padding-right: 0;/*original value:$right-sidebar-width-narrow*/
   }
 
   @include breakpoint($large) {
-    padding-right: 0;
+    padding-right: 0;/*original value:$right-sidebar-width*/
   }
 
   @include breakpoint($x-large) {
-    padding-right: 0;
+    padding-right: 0;/*original value:$right-sidebar-width-wide*/
   }
 
   .page__meta {
