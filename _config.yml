@@ -93,6 +93,8 @@ research_category:
     title: 'Journal Articles'
   books:
     title: 'Books'
+  dissertations:
+    title: 'Dissertations'
   conferences:
     title: 'Conference Papers'
 
