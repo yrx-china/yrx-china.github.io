@@ -12,45 +12,34 @@ redirect_from:
 Education
 ======
 * Ph.D in Higher Education, Nanjing University, 2023.09-2027.06 (expected)   
-  <!--
-  * 博士 高等教育学, 南京大学 , 2023.09-2027.06(预期)
-  -->
+  <!--  * 博士 高等教育学, 南京大学 , 2023.09-2027.06(预期) -->   
 * M.S. in Real Estate Management, Nanjing University of Finance &Economics, 2016.09-2019.06   
-  <!--
-  * 硕士 房地产管理学, 南京财经大学, 2016.09-2019.06
-  -->
+  <!--  * 硕士 房地产管理学, 南京财经大学, 2016.09-2019.06 -->   
 * B.S. in Land Resource Management, Southwest Forestry University, 2012.09-2016.06   
-  <!--
-  * 学士（本科） 土地资源管理, 西南林业大学, 2012.09-2016.06
-  -->
+  <!--  * 学士（本科） 土地资源管理, 西南林业大学, 2012.09-2016.06 -->   
 * Senior middle school in Taozhou Middle School, Siyang, Jiangsu, 2008.09-2012.06   
-  <!--
-  * 高中 泗阳桃州中学, 2012.09-2016.06
-  -->
+  <!-- * 高中 泗阳桃州中学, 2012.09-2016.06 -->   
 * junior middle school in Siyang County Experimental Junior High School, Siyang County, Jiangsu Province, 2005.09-2008.06   
-  <!--
-  * 初中 泗阳县实验初级中学, 2012.09-2016.06
-  -->
+  <!-- * 初中 泗阳县实验初级中学, 2012.09-2016.06 -->   
 * primary school in Linhe Town Central Primary School, Siyang County, Jiangsu Province, 2002.09-2005.06   
-  <!--
-  * 小学 临河镇中心小学, 2012.09-2016.06
-  -->
+  <!-- * 小学 临河镇中心小学, 2012.09-2016.06 -->   
 * primary school in Yundu Primary School, Linhe Town, Siyang County, Jiangsu Province, 1998.09-2002.06   
-  <!--
-  * 小学 云渡小学, 2012.09-2016.06
-  -->
+  <!--  * 小学 云渡小学, 2012.09-2016.06 -->   
 
 Work experience
 ======
+<!--ssssss-->
+<!---->
+<!---->
 <!---->
 * 2020.11-2022.10 : Research Assistant
   * Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS)
-  * Duties included: Data collection and processing, Plan formulation, etc   
-  <!--
+  * Duties included: Data collection and processing, Plan formulation, etc
+<!--
   * 2020.11-2022.10 : 科研助理
   * 中国科学院南京地理与湖泊研究所
   * 工作内容：数据收集和处理、规划写作、书稿写作等   
-  -->
+-->
 * 2020.09-2020.10 : Private company employee
   * 江苏苏地仁合土地房地产资产评估测绘造价咨询有限公司
   * Duties included: Land Plan formulation, etc   
