@@ -28,9 +28,6 @@ Education
 
 Work experience
 ======
-<!--ssssss-->
-<!---->
-<!---->
 <!---->
 * 2020.11-2022.10 : Research Assistant
   * Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS)
