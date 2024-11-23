@@ -19,11 +19,11 @@ Education
   <!--  * 学士（本科） 土地资源管理, 西南林业大学, 2012.09-2016.06 -->   
 * Senior middle school in Taozhou Middle School, Siyang, Jiangsu, 2008.09-2012.06   
   <!-- * 高中 泗阳桃州中学, 2012.09-2016.06 -->   
-* junior middle school in Siyang County Experimental Junior High School, Siyang County, Jiangsu Province, 2005.09-2008.06   
+* Junior middle school in Siyang County Experimental Junior High School, Siyang County, Jiangsu Province, 2005.09-2008.06   
   <!-- * 初中 泗阳县实验初级中学, 2012.09-2016.06 -->   
-* primary school in Linhe Town Central Primary School, Siyang County, Jiangsu Province, 2002.09-2005.06   
+* Primary school in Linhe Town Central Primary School, Siyang County, Jiangsu Province, 2002.09-2005.06   
   <!-- * 小学 临河镇中心小学, 2012.09-2016.06 -->   
-* primary school in Yundu Primary School, Linhe Town, Siyang County, Jiangsu Province, 1998.09-2002.06   
+* Primary school in Yundu Primary School, Linhe Town, Siyang County, Jiangsu Province, 1998.09-2002.06   
   <!--  * 小学 云渡小学, 2012.09-2016.06 -->   
 
 Work experience
