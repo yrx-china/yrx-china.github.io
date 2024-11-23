@@ -35,11 +35,11 @@ Work experience
 * 2020.11-2022.10 : Research Assistant
   * Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS)
   * Duties included: Data collection and processing, Plan formulation, etc   
-<!--
+  <!--
   * 2020.11-2022.10 : 科研助理
   * 中国科学院南京地理与湖泊研究所
   * 工作内容：数据收集和处理、规划写作、书稿写作等   
--->
+  -->
 * 2020.09-2020.10 : Private company employee
   * 江苏苏地仁合土地房地产资产评估测绘造价咨询有限公司
   * Duties included: Land Plan formulation, etc   
