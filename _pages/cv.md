@@ -34,7 +34,7 @@ Work experience
 <!---->
 * 2020.11-2022.10 : Research Assistant
   * Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS)
-  * Duties included: Data collection and processing, Plan formulation, etc
+  * Duties included: Data collection and processing, Plan formulation, etc   
 <!--
   * 2020.11-2022.10 : 科研助理
   * 中国科学院南京地理与湖泊研究所
