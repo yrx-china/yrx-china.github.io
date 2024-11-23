@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Biography
+======
+* Born in 1992-03-31
+
+
 Education
 ======
 * Ph.D in Higher Education, Nanjing University, 2023.09-2027.06 (expected)   
@@ -32,11 +37,11 @@ Work experience
 * 2020.11-2022.10 : Research Assistant
   * Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS)
   * Duties included: Data collection and processing, Plan formulation, etc   
-  <!--
-  * 2020.11-2022.10 : 科研助理
-    * 中国科学院南京地理与湖泊研究所
-    * 工作内容：数据收集和处理、规划写作、书稿写作等
-  -->
+<!--
+* 2020.11-2022.10 : 科研助理
+  * 中国科学院南京地理与湖泊研究所
+  * 工作内容：数据收集和处理、规划写作、书稿写作等
+-->
 * 2020.09-2020.10 : Private company employee
   * 江苏苏地仁合土地房地产资产评估测绘造价咨询有限公司
   * Duties included: Land Plan formulation, etc   
@@ -49,9 +54,34 @@ Work experience
   * 南京万购信息科技有限公司
   * Duties included: internet information searching, etc   
 
-
-Publications
+Conference and Awards
 ======
-  <ul>{% for post in site.researches reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<!---->
+* 2024 Jiangsu Provincial Academic Conference on Educational Economics Research, China University of Mining and Technology, Xuzhou , Jiangsu
+  <!-- 2024年江苏省教育经济研究学术年会 -->
+* 2023 China Academic Conference on Educational Economics, Central China Normal University, Wuhan , Hubei
+  <!-- 2023年中国教育经济学术年会 -->
+* 2023 Jiangsu Provincial Academic Conference on Educational Economics Research, Nanjing Agricultural University, Nanjing , Jiangsu
+  <!-- 2023年江苏省教育经济研究学术年会 -->
+  * Huang, B., & Yun, R. X. (2023). "How Can Educational Development Help Invigorate the Country? ——An Empirical Analysis Based on Internationally Comparable Data on Cognitive Skills from 1960 to 2020." Educational Research. 44(10):125-136.
+  * the first prize
+
+
+Awards of Papers
+======
+<!---->
+* Huang, B., & Yun, R. X. (2023). "How Can Educational Development Help Invigorate the Country? ——An Empirical Analysis Based on Internationally Comparable Data on Cognitive Skills from 1960 to 2020." Educational Research. 44(10):125-136.
+  * "Annual Papers" of 2023, Journal of 《Educational Research》
+  * 《人大复印资料-教育学》2024年第3期全文转载
+  * 《新华文摘》2024年第4期转载
+  
+
+[//]: # (Researches)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.researches reversed %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
