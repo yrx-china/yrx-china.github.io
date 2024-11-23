@@ -24,7 +24,7 @@ Education
 * Primary school in Linhe Town Central Primary School, Siyang County, Jiangsu Province, 2002.09-2005.06   
   <!-- * 小学 临河镇中心小学, 2012.09-2016.06 -->   
 * Primary school in Yundu Primary School, Linhe Town, Siyang County, Jiangsu Province, 1998.09-2002.06   
-  <!--  * 小学 云渡小学, 2012.09-2016.06 -->   
+  <!-- * 小学 云渡小学, 2012.09-2016.06 -->   
 
 Work experience
 ======
