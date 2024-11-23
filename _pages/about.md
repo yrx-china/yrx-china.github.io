@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
-Now, I'm a second year PH.D. candidate at [Institution of education](https://edu.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/). My research interest includes educational economic, macro economic.
+Now, I'm a second year PH.D. candidate at [Institution of education](https://edu.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).    
+My research interest includes educational economic, macro-economic.
 
 Researches
 ======
