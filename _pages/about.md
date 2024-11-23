@@ -15,7 +15,7 @@ Researches
   <ul>{% for post in site.researches reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+<!--字体被_page.css冲了，所以字体变大了，-->
 
 You can contact me by:
 ======
