@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Now, I'm a second year PH.D. candidate at [Institution of education](https://edu.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/). My research interest includes educational economic, macro economic.
 
 Researches
@@ -16,7 +18,8 @@ Researches
   {% endfor %}</ul>
 
 
-## You can contact me by:
+You can contact me by:
+======
 - ### Email：[jssyyrx@163.com](mailto:jssyyrx@163.com)   
 - ### Wechat：
   <img src="../images/weichat.png" style="zoom:20%" />
