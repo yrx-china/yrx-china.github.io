@@ -3,7 +3,8 @@ title: "Characteristics and Differences of Urban Agglomeration Integrated Develo
 collection: researches
 category: journal_articles
 permalink: /researches/2023-09-01-CDUAIDYREB
-excerpt: 'This is an article belong to human geography. I done the preliminary work of this article.'
+excerpt: 'This article belongs to human geography. I done the preliminary 
+work of this article.'
 date: 2023-09-01
 venue: 'Resources and Environment in the Yangtze Basin'
 #paperurl: 'https://yrx-china.github.io/files/journal_articles/20230901_Characteristics-and-Differences-of-Urban-Agglomeration-Integrated-Development-in-the-Yangtze-River-Economic-Belt.pdf'
