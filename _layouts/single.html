@@ -47,31 +47,30 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-      {% if post.citation %}
-        <p>Recommended citation: {{ post.citation }}<br />
-      {% endif %}
-
-      {% if post.paperurl %}
-          <a href="{{ post.paperurl }}">Download Paper</a>
-      {% endif %}
-      {% if post.chinese_paperurl %}
-          {% if post.paperurl %}
-             | <a href="{{ post.chinese_paperurl }}">Download Paper(chinese version)</a>
-          {% endif %}
-      {% endif %}
-      {% if post.english_paperurl %}
-          {% if post.paperurl %}
-             | <a href="{{ post.english_paperurl }}">Download Paper(english version)</a>
-          {% endif %}
-      {% endif %}
-      {% if post.slidesurl %}
-            {% if post.paperurl or  post.chinese_paperurl or post.english_paperurl%}
-              | <a href="{{ post.slidesurl }}">Download Slides</a>
+        {% if page.citation %}
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
+        {% endif %}
+        {% if page.paperurl %}
+            <a href="{{ page.paperurl }}">Download Paper</a>
+        {% endif %}
+        {% if page.chinese_paperurl %}
+            {% if page.paperurl %}
+               | <a href="{{ page.chinese_paperurl }}">Download Paper(chinese version)</a>
             {% endif %}
-      {% endif %}
-      {% if post.appendixurl %}
-          | <a href="{{ post.appendixurl }}">Download Appendix</a>
-      {% endif %}
+        {% endif %}
+        {% if page.english_paperurl %}
+            {% if page.paperurl %}
+               | <a href="{{ page.english_paperurl }}">Download Paper(english version)</a>
+            {% endif %}
+        {% endif %}
+        {% if page.slidesurl %}
+              {% if page.paperurl or  page.chinese_paperurl or page.english_paperurl%}
+                | <a href="{{ page.slidesurl }}">Download Slides</a>
+              {% endif %}
+        {% endif %}
+        {% if page.appendixurl %}
+            | <a href="{{ page.appendixurl }}">Download Appendix</a>
+        {% endif %}
         </p>
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
