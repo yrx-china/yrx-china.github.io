@@ -81,5 +81,7 @@ Awards of Papers
 Researches
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+        {% if post.title % }
+          {% include archive-single-cv.html %}
+        {% endif %}
   {% endfor %}</ul>
