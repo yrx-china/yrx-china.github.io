@@ -68,13 +68,10 @@
            | <a href="{{ post.english_paperurl }}">Download Paper(english version)</a>
         {% endif %}
     {% endif %}
-    {% if post.paperurl %}
-        {% if post.paperurl or  post.chinese_paperurl or post.english_paperurl%}
-           | <a href="{{ post.paperurl }}">Download Paper(chinese version)</a>
-        {% endif %}
-    {% endif %}
     {% if post.slidesurl %}
-        | <a href="{{ post.slidesurl }}">Download Slides</a>
+          {% if post.paperurl or  post.chinese_paperurl or post.english_paperurl%}
+            | <a href="{{ post.slidesurl }}">Download Slides</a>
+          {% endif %}
     {% endif %}
     {% if post.appendixurl %}
         | <a href="{{ post.appendixurl }}">Download Appendix</a>
