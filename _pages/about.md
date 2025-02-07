@@ -12,7 +12,7 @@ My research interest includes educational economic, macro-economic.
 
 Researches
 ======
-  <ul>{% for post in site.researches reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <!--字体被_page.css冲了，所以字体变大了，-->
